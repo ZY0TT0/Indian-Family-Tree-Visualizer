@@ -1,0 +1,13 @@
+name,gender,parents,spouses,siblings,grandparents,greatGrandparents,unclesAunts,niecesNephews
+EmilyM,female,,EmilyF,,,,,
+,Male,,,,,,,
+Margaret,female,,Henry,,,,,
+Emily,female,EmilyF;EmilyM,Robert,Ansh,EmilyGF,,,
+Robert,male,Margaret;Henry,Emily,Riya,,,,
+EmilyGF,male,,,,,,,
+EmilyF,male,EmilyGF,EmilyM,,,,,
+John,male,Robert;Emily,,,Margaret;Henry,,,
+Riya,female,Margaret;Henry,,Robert,,,,
+Ansh,male,EmilyF;EmilyM,,Emily,,,,
+Henry,male,,Margaret,,,,,
+Deepak,male,Riya,,,Margaret;Henry,,,
